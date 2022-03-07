@@ -1,2 +1,2 @@
-# sandbox-React-test2
+# sandbox-React-test
 Created with CodeSandbox
